@@ -1,0 +1,138 @@
+Guía de Ejercicios Nº1 – Diagramación
+Actividad:
+Resolver los problemas que se plantean a continuación, representándolos en un diagrama de flujo.
+1- Leer tres números en las variables A, B y C, realizar los siguientes cálculos e imprimir los
+resultados:
+a- La suma de los tres.
+b- La diferencia del primero respecto del segundo.
+c- El producto de los dos últimos.
+d- La división entre el primero y el tercero.
+2- Determinar e imprimir el anterior y el siguiente de un número.
+3- Leer dos números, almacenarlos en las variables X y Y respectivamente. Intercambiar el contenido
+de las variables de manera que el valor contenido en X pase a Y, y el valor contenido en Y pase a
+X.
+4- Dados dos números A y B imprimir el mayor de ellos.
+5- Dado un número que representa la cantidad de lados de un polígono, determinar si se trata de un
+triángulo, cuadrilátero o de un pentágono; en caso de no tratarse de una de estas figuras, imprimir
+un mensaje.
+6- Dados tres números A, B y C imprimir el mayor de ellos.
+7- Dados 100 números, realizar la suma de los positivos y de los negativos.
+8- Dados 100 números, determinar la cantidad de positivos, negativos y nulos.
+9- Dados 15 números, imprimir el promedio.
+10- Dados 75 números, imprimir los números negativos, el promedio de los positivos y la cantidad de
+nulos.
+11- Dados 100 números, realizar la suma de los números pares e impares. Imprimir sumas.
+12- Obtener e imprimir la suma de todos los números pares entre 1 y 100.
+13- Dado un conjunto de N números naturales, determinar:
+a- Cuántos son mayores que 60.
+b- Cuántos son menores que 20.
+c- Cuántos están comprendidos entre 55 y 85, incluidos los extremos.
+14- Se conocen dos números A y B de cuatro dígitos cada uno. Imprimir un número C que está
+formado por los dos primeros dígitos de A y los últimos dígitos de B.
+Ejemplo: A = 1234 B=5678 -> C=1278
+15- Sumar 20 números. Inicializar la variable que lleva la cuenta en 20.
+16- Ingresar el nombre y la edad de 100 personas. Según la edad, determinar si la persona se
+encuentra en primaria, secundaria o en la universidad. Considerar de 6 a 12 años primaria, de 13 a
+17 secundaria y mayores de 17 en la universidad.
+ITSE – Lógica y Estructura de datos
+2
+17- Ingresar nombre y cantidad existente de 10 productos. Si la cantidad existente de un producto es
+menor que 100 (faltante), pedir que se ingresen los datos del proveedor de ese producto e
+imprimirlos junto al nombre del producto que se encuentra faltante.
+18- Dados dos números A y B multiplicarlos sin usar la multiplicación.
+19- Dados dos números A y B dividirlos sin usar la división.
+20- Dados 100 números determinar cuál es el mayor de ellos.
+21- Dados 100 números determinar cuál es el mayor y el menor de ellos.
+22- Ingresar el nombre y la edad de 50 alumnos de un curso. Determinar e imprimir:
+a- El nombre del alumno que encuentre con mayor edad.
+b- El nombre del alumno que encuentre con menor edad.
+c- Cantidad de alumnos menores que 12.
+d- Cantidad de alumnos entre 10 y 16.
+e- El promedio de las edades.
+23- Generar la serie de Fibonacci hasta el número 100. Imprimir:
+a- Términos generados.
+b- Cantidad de términos pares.
+c- La palabra “Si”, si el término 50 pertenece a la serie.
+24- Para calificar en una prueba atlética, un grupo de N competidores debe responder a las siguientes
+marcas:
+a- Hombres mayores o iguales a 35 años, deben registrar entre 40 y 60 minutos.
+b- Mujeres mayores a 30 años, deben tener un tiempo entre 40 y 80 minutos.
+Ingresar edad, sexo y tiempo alcanzado por atleta e imprimir como resultado si el mismo califica o
+no.
+25- Sumar los números del 1 al 100 no terminados en 5.
+26- Se ingresan ternas de valores que corresponden a los nombres, edad y sueldo de los empleados
+de una empresa. Se pide imprimir:
+a- El nombre de aquellos empleados que cumplan con la condición de que la edad sea mayor a
+25 años y el sueldo mayor a $3000.
+b- La cantidad de empleados menores a 18 años.
+c- La cantidad de empleados que se ingresaron y la suma de los sueldos.
+El final de lista viene dado por nombre =””.
+27- Se ingresan N cuartetos de números de un dígito A, B, C y D. Deberá generar el entero positivo
+resultante de la unión de esos 4 dígitos. Ejemplo: A=1; B=2; C=6; D=5. Nº resultante: 1265.
+28- Ingresar 30 números, imprimir solo aquellos que sean el doble del leído anteriormente. Ej: para los
+siguientes números: 25, 5, 6, 12, 24, 4, 8 deberá imprimir 12, 24, 8.
+29- Ingresar N pares de números, imprimir el mayor de cada par.
+30- Se ingresan 100 números, obtener la suma de los múltiplos de 3.
+31- Se ingresan 150 valores, calcular el promedio de los múltiplos de 3 y no de 5.
+32- Calcular el factorial de un número N.
+33- Dado un número determinar si es primo.
+ITSE – Lógica y Estructura de datos
+3
+34- Dado un número determinar cuántas unidades, decenas y centenas tiene el mismo.
+35- Hubo 3 candidatos en una elección. Cada elector tenía los siguientes datos: sexo (1v 2m) y el
+partido por el cual votó (1 a 3).
+Hacer un diagrama que ingrese N electores y calcule:
+a- La cantidad de mujeres que votaron.
+b- La cantidad de varones que votaron al candidato 3.
+c- Decir que candidato ganó la elección. Nota: considere que no hay empate.
+d- Imprimir todos los resultados.
+36- Leer un grupo de números. Considere que se desconoce la cantidad de valores que componen el
+grupo pero que el último número a ser ingresado será un cero. Realice un diagrama que indique al
+final, si se presenta el número 178 dentro de la serie o si está ausente.
+37- Ingrese N números de 8 dígitos cada uno, donde los dos primeros representan el día, los dos
+siguientes el mes y los cuatro últimos el año.
+Verifique e imprima si la fecha es válida o no. Se considera válida si cumple con las siguientes
+condiciones:
+Los meses de 31 días son el 1, 3, 5, 7, 8, 10 y 12.
+Los meses de 30 días son el 4, 6, 9, 11 y que febrero tendrá 28 días salvo los años bisiestos en los
+cuales tendrá 29 días. Un año es bisiesto si es múltiplo de 4 y no de 100, salvo que los múltiplos de
+100 sean múltiplos de 400.
+38- Ingresar N números de 3 dígitos, imprimir cuántos números ingresados son capicúa.
+39- Valorar el stock de un almacén. Para ello se deberá leer la siguiente información referida a cada
+artículo:
+a- Nombre del artículo.
+b- Unidades en existencia.
+c- Año de fabricación.
+d- Precio unitario.
+Se considera que los artículos fabricados con anterioridad a 2000 se devalúan en un 20%: Hacer
+un programa que a partir de los datos ingresados determine el valor actual de cada artículo y el
+valor total del stock del almacén.
+La entrada de datos finaliza cuando se lee la palabra “FIN” en el nombre de artículo. Por final de
+programa deberá imprimir el valor del stock actualizado.
+40- Se ingresan N pares de números en las variables CAT e IMP. Donde CAT corresponde a una
+categoría de cliente cuyo valor puede ser 1, 2, 3 o 4; IMP corresponde al importe de una factura.
+Desarrolle un algoritmo que:
+a- Calcule el total general de importe de facturas.
+b- Calcule el total de importe por categorías.
+c- Determine el mayor de los importes y a qué categorías de cliente corresponde (considerando
+que no hay importes repetidos).
+d- Imprima todos los resultados.
+41- Se lee la siguiente información: Sexo, Estado Civil y Edad en donde: Sexo será 1= varón y 2 =
+mujer; Estado Civil será 1 = soltero, 2 = separado, 3 = casado y 4 = viudo. Se pide:
+a- Contar la cantidad de hombres casados mayores a 28 años.
+b- Contar la cantidad de mujeres solteras menores a 25 años.
+c- Calcular el promedio de edad de los hombres casados.
+d- Contar cuantos hombres y mujeres se ingresaron.
+e- Contar la cantidad de hombres viudos.
+f- Contar la cantidad de hombres y mujeres separados.
+El final de la lectura viene indicado por un 5 en campo sexo.
+ITSE – Lógica y Estructura de datos
+4
+42- Ingresar números e imprimir aquellos que sean igual a la mitad más 1 del leído anteriormente. El
+proceso finaliza al ingresar el número 999.
+Ejemplo: dada la serie 2, 3, 15, 8, 5, 10, 6, 9999. Deberá Imprimir: 5, 6…
+43- Se leen 100 números, cada uno de los cuales consta de 4 dígitos. Se pide:
+a- Contar la cantidad de números cuyo último digito es 0 (cero).
+b- Contar la cantidad de números cuyo último digito es 5 (cinco).
+c- Si el número leído no termina en 5 ni 0, descomponerlo en dos partes e imprimirlas.
+d- Imprimir la cantidad de números que terminan en cincos y en ceros.
